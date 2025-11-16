@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Rabiul+Islam..;Full+Stack+Developer;&center=true"></a></p>
 
 <p align="justify">
-With over 5 years of experience in software development, I am currently a Senio Software Engineer at ACI Limited. I am results-oriented, responsible, and thrive under pressure. My quick learning ability and eagerness to grow, combined with my multi-tasking skills and leadership experience, enable me to effectively manage multiple projects simultaneously.
+With over 5 years of experience in software development, I am currently a Senior Software Engineer at ACI Limited. I am results-oriented, responsible, and thrive under pressure. My quick learning ability and eagerness to grow, combined with my multi-tasking skills and leadership experience, enable me to effectively manage multiple projects simultaneously.
 </p> 
 
 <h3>Programming Languages</h3>
