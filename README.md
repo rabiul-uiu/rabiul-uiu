@@ -93,9 +93,5 @@ Application security from a developer's seat — OWASP Top 10 in real Laravel an
 </p>
 
 <p align="center">
-  <img width="46%" src="https://streak-stats.demolab.com/?user=rabiul-uiu&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rabiul-uiu&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
